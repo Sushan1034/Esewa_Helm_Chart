@@ -1,0 +1,8 @@
+apiVersion: v2
+name: esewa-testing
+description: Helm chart for eSewa Payment Testing App (React + Express.js)
+type: application
+version: 0.1.0
+appVersion: "1.0.0"
+maintainers:
+  - name: Sushan Aryal
