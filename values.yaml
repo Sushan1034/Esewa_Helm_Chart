@@ -9,7 +9,7 @@ replicaCount: 1
 image:
   repository: kjbsdfbuhsdbfu/esewatesting
   tag: "v2"
-  pullPolicy: IfNotPresent
+  pullPolicy: Always
 
 # -- Image pull secrets (for private registries)
 imagePullSecrets: []
