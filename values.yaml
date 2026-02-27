@@ -8,7 +8,7 @@ replicaCount: 1
 # -- Container image configuration
 image:
   repository: kjbsdfbuhsdbfu/esewatesting
-  tag: "36"
+  tag: "37"
   pullPolicy: Always
 
 # -- Image pull secrets (for private registries)
